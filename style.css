@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+header {
+  border: 30px solid black;
+  height: 100%;
+  padding: 100px;
+  width: 100%;
+  background: rgb(255, 241, 241);
+  text-align: center;
+}
+
+.main {
+  border: 5px solid black;
+  padding: 10px;
+}
+
+.main h1 {
+  text-align: center;
+  font-family: "Fascinate Inline", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 52px;
+  color: rgb(0, 0, 0);
+}
+
+.main h2 {
+  text-align: center;
+  padding-top: 0px;
+  font-weight: 600;
+  font-size: 32px;
+}
+
+.main p {
+  text-align: center;
+}
+
+span {
+  color: #e9b6be;
+  font-family: "Fascinate Inline", system-ui;
+}
+
+.img-box img {
+  width: 150px;
+  border-radius: 100px;
+  padding-top: 10px;
+}
